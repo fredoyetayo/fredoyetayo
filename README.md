@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @fredoyetayo, a retired Sofware Engineer
+- 👋 Hi, I’m @fredoyetayo, a retired Software Engineer
 - Interested in working on new exciting project
 - Contact for partnerships and collaboration
 
