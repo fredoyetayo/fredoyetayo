@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @fredoyetayo, I'm someone who is passionate about AI and Machine Learning.
+- 👋 Hi, I’m @fredoyetayo,👋 I'm someone who is passionate about AI and Machine Learning.
 - Interested in working on new exciting products.
 - I currently lead a team of developers and designers 
 - Contact me to have a chat.
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=fredoyetayo&left_color=green&right_color=red)
 
 <!---
 fredoyetayo/fredoyetayo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
