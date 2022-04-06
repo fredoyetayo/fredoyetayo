@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @fredoyetayo, a retired Software Engineer
-- Interested in working on new exciting project
-- Contact for partnerships and collaboration via email {fred[@]fresible.com}
+- 👋 Hi, I’m @fredoyetayo, I'm someone who is passionate about AI and Machine Learning.
+- Interested in working on new exciting products.
+- I currently lead a team of developers and designers 
+- Contact me to have a chat.
 
 <!---
 fredoyetayo/fredoyetayo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
