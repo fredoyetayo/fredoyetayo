@@ -3,7 +3,7 @@
 - I currently lead a team of developers and designers 
 - Contact me to have a chat.
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=fredoyetayo&left_color=green&right_color=red)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=fredoyetayo&left_color=black&right_color=white)
 
 <!---
 fredoyetayo/fredoyetayo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
