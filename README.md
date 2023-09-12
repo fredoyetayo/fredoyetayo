@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @fredoyetayo,👋 I'm someone who is passionate about AI and Machine Learning.
+- 👋 Hi, I’m @fredoyetayo,👋 I'm someone who is passionate about Technology.
 - Interested in working on new exciting products.
 - I currently lead a team of developers and designers 
 - Contact me to have a chat.
