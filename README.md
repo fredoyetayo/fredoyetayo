@@ -1,10 +1,17 @@
-- 👋 Hi, I’m @fredoyetayo,👋
-- Passionate about Technology with over 15 years of experience working on diverse project and teams.
-- I love learning and most of my free time is spent learning new stuff or better ways of doing things.
-- 🍞 & 🧈 = Web and Software Development 
-- 📧 Let's have a chat. Email me f[@]
+# 👋 Hello, I'm Fred Oyetayo!
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=fredoyetayo&left_color=white&right_color=black)
+Welcome to my GitHub page! 
+
+## About Me
+- I have a deep passion for technology, with over 15 years of experience collaborating on diverse projects and teams.
+- Continuous learning is my driving force. I spend a lot of my free time exploring new technologies and refining my methods.
+- I equate Web and Software Development to the perfect combination of Bread and Butter 🍞 & 🧈.
+
+## Let's Connect
+If you're interested in chatting about technology, collaboration, or just want to say hi, feel free to reach out to me via email at `[me@myfullname.co.uk]`.
+
+## Visitor Counter
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=fredoyetayo)
 
 <!---
 fredoyetayo/fredoyetayo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
