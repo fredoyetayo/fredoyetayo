@@ -11,7 +11,7 @@ Welcome to my GitHub page!
 If you're interested in chatting about technology, collaboration, or just want to say hi, feel free to reach out to me via email at `[me@myfullname.co.uk]`.
 
 ## Visitor Counter
-![](https://komarev.com/ghpvc/?username=fredoyetayo&color=yellowgreen&base=127640)
+![](https://komarev.com/ghpvc/?username=fredoyetayo&color=yellowgreen&base=7640)
 
 <!---
 fredoyetayo/fredoyetayo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
