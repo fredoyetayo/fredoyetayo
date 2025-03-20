@@ -1,4 +1,4 @@
-# 👋 Hello, I'm 'Fred Oyetayo!
+# 👋 Hello, I'm 'Fred!
 
 Welcome to my GitHub page! 
 
