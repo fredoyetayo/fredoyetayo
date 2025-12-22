@@ -1,8 +1,5 @@
 # 👋 Hello, I'm 'Fred!
 
-Welcome to my GitHub page! 
-
-## About Me
 - I have a deep passion for technology, with over 17 years of experience collaborating on diverse projects and teams.
 - Continuous learning is my driving force. I spend a lot of my free time exploring new technologies and refining my methods.
 
